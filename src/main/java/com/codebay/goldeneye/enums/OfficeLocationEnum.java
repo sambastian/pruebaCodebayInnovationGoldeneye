@@ -1,4 +1,4 @@
-package com.codebay.goldeneye;
+package com.codebay.goldeneye.enums;
 
 public enum OfficeLocationEnum {
 	Milan("Milan", new DepartmentEnum[] { DepartmentEnum.Design, DepartmentEnum.Business, DepartmentEnum.Advertising }),

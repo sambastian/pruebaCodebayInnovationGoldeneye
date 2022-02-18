@@ -1,4 +1,4 @@
-package com.codebay.goldeneye.bean;
+package com.codebay.goldeneye.beans;
 
 public class EmailBean {
 	

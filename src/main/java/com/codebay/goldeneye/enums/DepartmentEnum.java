@@ -1,4 +1,4 @@
-package com.codebay.goldeneye;
+package com.codebay.goldeneye.enums;
 
 public enum DepartmentEnum {
 	Design("Design"), Business("Business"), Advertising("Advertising"), ResearchAndDeveloment("Research and develoment");

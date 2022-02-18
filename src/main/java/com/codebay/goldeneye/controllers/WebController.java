@@ -1,4 +1,4 @@
-package com.codebay.goldeneye;
+package com.codebay.goldeneye.controllers;
 
 import java.util.Arrays;
 
@@ -7,7 +7,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;  
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.codebay.goldeneye.bean.EmailBean;
+import com.codebay.goldeneye.beans.EmailBean;
+import com.codebay.goldeneye.enums.OfficeLocationEnum;
 
 @Controller
 public class WebController {  
